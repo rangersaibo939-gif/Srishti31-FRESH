@@ -1,0 +1,14 @@
+.gradle/
+build/
+**/build/
+*.apk
+*.aab
+*.keystore
+*.jks
+local.properties
+.idea/
+.DS_Store
+gradle-build.log
+
+# Accidental empty control-character file
+app/
